@@ -11,6 +11,6 @@ Nesta aula, iremos criar um pipeline de desenvolvimento, onde veremos CI/CD(Cont
 
 | [<img src="https://avatars.githubusercontent.com/u/19227867?v=4" width="75px;"/>](https://github.com/ismaelash) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                             [Ismael Nascimento 'Ash'](https://github.com/marcostaborda)                                                             |
+|                                                             [Ismael Nascimento 'Ash'](https://github.com/ismaelash)                                                             |
 
 TAGS: AWS, .NET Core, Elastic Beanstalk, CI/CD
